@@ -1,5 +1,9 @@
+<h1 align="center">
+  Are you really here?
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hi%20Everyone!&fontSize=90" />
+  <img src="https://media3.giphy.com/media/xULV7FKDsqkdEfcMZK/giphy.webp?cid=ecf05e47naqe40obsqa6894nq53dzwkqj5rnkyvx7tc14t4e&ep=v1_gifs_search&rid=giphy.webp&ct=g" />
 </p>
 
 <h1 align="center">
