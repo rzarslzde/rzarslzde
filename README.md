@@ -1,25 +1,10 @@
 <h1 align="center">
-  Are you really here?
+  Ayo
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/xULV7FKDsqkdEfcMZK/giphy.webp?cid=ecf05e47naqe40obsqa6894nq53dzwkqj5rnkyvx7tc14t4e&ep=v1_gifs_search&rid=giphy.webp&ct=g" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWswbXR4c3NtM3FnMm1kMHFwZWc1cmIwZ2ZqMXFudWU4MDNwbjB4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9QdsgewogqOoiDRGao/giphy.gif" />
 </p>
-
-<h1 align="center">
-  Social Media💬
-</h1>
-
-<p align="center">
-<a href="https://twitter.com/callmera__">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/callmera.__/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
-
----
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -33,7 +18,6 @@ education:
     "Master's in Computer Architecture",
     "Bachelor's in Information Technology",
   ]
-company: IranSign
 
 fields_of_interests:
   [
@@ -41,11 +25,11 @@ fields_of_interests:
     "DevOps",
   ]
 
-  
-currently_learning: ["Kubernetes and ELK"]
 hobbies: ["Gaming", "Comedy"]
 ```
-  
+---
+I want to know how big production works!
+---
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
